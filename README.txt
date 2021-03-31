@@ -11,20 +11,14 @@ PL files have extension “.pde” and can be opened as text files.
 
 
 ======================= RUNNING THE APPLICATION =======================
-This application runs on Java 8. Java is embedded in the windows distributions, but not Linux.
-Linux users may need to install Java from: https://www.java.com/en/download/
-
-Windows:
-	Navigate to the folder that matches your OS, and run “assignmnet3.exe”
-	Example for 64-bit windows: “.\Windows\application.windows64\assignmnet3.exe”
-
-Linux:
-	Navigate to the folder that matches your OS, and run “assignmnet3”. 
-
+ 1) Install the PL IDE from "https://processing.org/download/".
+ 2) Pull the github repository.
+ 3) Open file "assignmnet3.pde" with the PL IDE.
+ 4) run the script (ctrl + r).
 
 ============================== USE ==============================
  * Look around by right-clicking and dragging the mouse.
- * View joints by pressing and holding 'r'
+ * View joints by pressing and holding 'r'.
  * Select a joint by pressing 'r' and left clicking it. Unselect in the same way.
 	The selected joint will appear cyan.
  * Rotate selected joint forward and backwards in the:
