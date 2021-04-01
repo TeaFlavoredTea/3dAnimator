@@ -12,7 +12,7 @@ PL files have extension “.pde” and can be opened as text files.
 
 ======================= RUNNING THE APPLICATION =======================
  1) Install the PL IDE from "https://processing.org/download/".
- 2) Pull the github repository.
+ 2) Clone the github repository.
  3) Open file "assignmnet3.pde" with the PL IDE.
  4) run the script (ctrl + r).
 
